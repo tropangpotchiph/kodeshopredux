@@ -1,0 +1,9 @@
+Instll the chrome extension: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+
+Clone the site: https://kodeshopredux.netlify.app/
+
+Utilize Redux 
+    - Slice & Action
+    - Reducers Add & Remove
+    - Redux Store State
+    
